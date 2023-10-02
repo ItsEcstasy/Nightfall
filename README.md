@@ -5,7 +5,7 @@ Nightfall is a Script/GUI for the roblox game: 🌳 Lumber Tycoon 2
 https://nightfall-2.gitbook.io/nightfall-documentation/
 
 ### Developers:
-Nightfall is a Project Started on 1/3/22 by **Ecstasy**. & **Teh Silent**.
+Nightfall is a Project Started on 1/3/22 by **Ecstasy**.
 
 
 ## I love Byfron
