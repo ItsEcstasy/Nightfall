@@ -1392,5 +1392,7 @@ function Library:Init(Name, UIVersion, Load)
 	end
 		
 	return Tabs
+
 end
 return Library
+print("Loaded")
